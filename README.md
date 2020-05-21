@@ -1,6 +1,6 @@
 # cs0320 Term Project 2020
 
-**Team Members:** Front-end: Nathaniel Nguyen,Colton Rusch, Raj Paul, Back-end: Suhye Park, , Nathan Mugerwa
+**Team Members:** Front-end: Nathaniel Nguyen, Colton Rusch, Raj Paul, Back-end: Suhye Park, Nathan Mugerwa
 
 Welcome to TravelGuide. When traveling with a group, it can be hard to keep track of everything you need, and everything you need to keep in mind. We’d like to create an all-inclusive, streamlined process for traveling that accommodates group travel on a budget. In summary, we’re envisioning a group chat especially designed for travel which takes into account group budget and calendar availability, and makes food, lodging, and transportation recommendations accordingly.
 
