@@ -1,4 +1,4 @@
-# cs0320 Term Project 2020
+# TravelChat V1
 
 **Team Members:** Front-end: Nathaniel Nguyen, Colton Rusch, Raj Paul, Back-end: Suhye Park, Nathan Mugerwa
 
